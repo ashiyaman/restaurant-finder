@@ -1,0 +1,10 @@
+red - ff4544
+bit dark - da1123
+square - da1123
+darker - c01f28
+shadow - ae2c2d
+
+circle - out - d5071f
+circle - in -ff4343
+
+grey - f4f4f4
