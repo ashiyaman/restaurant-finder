@@ -1,0 +1,4 @@
+beige - #d6c09c
+heading - #3f3d3e
+para - #797979
+footer - #1c1a1d
